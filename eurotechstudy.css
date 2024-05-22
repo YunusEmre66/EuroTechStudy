@@ -1,0 +1,109 @@
+#shadow{
+    box-shadow: rgba(114, 153, 207, 0.778) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.logo{
+margin-left: 100px;
+}
+.ayarla{
+    width: 150px;
+}
+.fotoayar{
+
+    height: 50vh;
+}
+.x{
+ background-color: rgb(197, 107, 172);
+ border-radius: 10px;
+ margin: 10px;
+}
+#button1:hover{
+    background-color:blue;
+    color: rgb(252, 231, 231);
+}
+.logolar{
+    width: 200px;
+}
+.ucluphoto{
+    border-radius: 20px;
+    color: red;
+}
+#radius{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+#yükseklik{
+    width: 200px;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+}
+    #büyüt:hover{
+        transition: 1s;
+      background-size: cover;
+}
+.sosyalmedya{
+    width: 120px;
+}
+.cardImage:hover{
+    transform: scale(1.2);
+    transition: all 1s;
+}
+.hidde{
+    overflow: hidden;
+}
+.toggleheight{
+height: 50vh;
+}
+.toggleImage{
+    max-width: 100%;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.toggleImage2{
+    display: flex;
+    justify-content: center;
+}
+.yesilbaslik{
+    position: absolute;
+    top: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    background-color: red;
+    border-radius: 7px;
+    padding: 3px;
+    font-size: 12px;
+}
+.marg{
+    margin-top: 200px;
+
+}
+.gölge{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.butt{
+    font-size: 20px;
+    background-color: rgb(10, 207, 207);
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 5px;
+}
+.butt:hover{
+    opacity: 0.5;
+    background-color: lightcoral;
+}
+.liste{
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 2;
+}
+.marginfoot{
+    margin-top: 100px;
+    padding-top: 100px;
+}
